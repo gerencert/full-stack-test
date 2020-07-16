@@ -14,6 +14,7 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 # Proposta
 
 Desenvolva um aplicação para controle de arquivos seguindo os seguintes requisitos:
+- A interface deve conter...
 
 # Requisitos
 
