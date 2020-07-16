@@ -8,6 +8,8 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 
 - [x] Contrato PJ
 - [x] Home Office (Trabalhe anywhere, anytime)
+- [x] Salário, a combinar
+- [x] Participação nos lucros e resultados
 
 # Proposta
 
