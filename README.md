@@ -1,7 +1,7 @@
 # Teste Desenvolvedor Full Stack
 
 Esse é um teste para que possamos testar algumas de suas habilidades e conhecimentos.
-Não necessáriamente é preciso terminar a atividade por completo, vamos avaliar a lógica, organização do projeto e qualidade de código.
+Não necessáriamente é preciso terminar a atividade por completo. Vamos avaliar a lógica, organização do projeto e qualidade de código.
 
 # Sobre Nós
 Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de autoridade de registro gerenciam certificado digital.
@@ -13,7 +13,7 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 
 # Proposta
 
-Desenvolva um aplicação para controle de arquivos.
+Desenvolva um aplicação para controle de arquivos seguindo os seguintes requisitos:
 
 # Requisitos
 
