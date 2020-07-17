@@ -83,4 +83,4 @@ Também no email, conte um pouco sobre você e seus objetivos ;)
 
 Encaminhar email para: robson.costa@gerencert.com.br
 
-** Todos os candidatos seram responditos, então não se preocupe.
+** Todos os candidatos seram respondidos, então não se preocupe.
