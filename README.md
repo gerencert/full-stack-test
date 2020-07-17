@@ -13,14 +13,46 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 
 # Proposta
 
-Desenvolva um aplicação para controle de arquivos seguindo os seguintes requisitos:
-1) A interface deve conter...
+Desenvolva uma aplicação simples para controle de cliente:
+A interface deve conter um botão para cadastrar novo cliente, e uma listagem dos clientes cadastrados.
+O botão novo, deve direcionar para uma nova tela contendo os seguintes campos:
+
+<table>
+  <tr>
+    <td>Field</td>  
+    <td>Type</td>  
+  </tr>
+  <tr>
+    <td>fullName</td>  
+    <td>String</td>  
+  </tr>
+  <tr>
+    <td>cpf</td>  
+    <td>String</td>  
+  </tr>
+  <tr>
+    <td>birthday</td>  
+    <td>Date</td>  
+  </tr>
+  <tr>
+    <td>contact.phone</td>  
+    <td>String</td>  
+  </tr>
+  <tr>
+    <td>contact.email</td>  
+    <td>String</td>  
+  </tr>
+  <tr>
+    <td>status</td>  
+    <td>boolean</td>  
+  </tr>
+</table>
 
 # Requisitos
 
 * Angular 1.6
 * Node
-* Koa2 ou HapiJS
+* HapiJS ou Koa2
 
 # Diferenciais
 
