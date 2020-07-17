@@ -12,8 +12,18 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 - [x] Participação nos lucros e resultados
 
 # Proposta
-
 Desenvolva uma aplicação simples para controle de cliente:
+
+## Back-end
+Desenvolva uma API para controle de cliente, a API deve seguir o padrão RESTFul e conter rotas para:
+- Consultar clientes
+- Cadastrar novo cliente
+- Consultar cliente por ID
+- Editar cliente por ID
+- Remover cliente
+
+Os dados devem ser armazenados em uma base dados Mongodb.
+
 ## Frond-end
 Desenvolva uma interface contendo um botão para cadastro de novo cliente, e uma listagem dos clientes cadastrados.
 O botão novo, deve direcionar o usuário para uma nova tela contendo um formulário com os seguintes campos:
@@ -58,8 +68,17 @@ A tela também deve conter um botão para remover o cliente.
 * Angular 1.6
 * Node
 * HapiJS ou Koa2
+* Mongodb
+* Git
 
 # Diferenciais
 
 * Docker
 * Testes automatizados
+
+# Conclusão
+
+Encaminhe um email com o link de acesso ao projeto, lembre-se de subir em um repositório de código fonte publico, para que possamos ter acesso e avaliar seu teste.
+Também no email, conte um pouco sobre você e seus objetivos ;)
+
+** Todos os candidatos seram responditos, então não se preocupe.
