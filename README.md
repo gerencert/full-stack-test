@@ -81,4 +81,6 @@ A tela também deve conter um botão para remover o cliente.
 Encaminhe um email com o link de acesso ao projeto, lembre-se de subir em um repositório de código fonte publico, para que possamos ter acesso e avaliar seu teste.
 Também no email, conte um pouco sobre você e seus objetivos ;)
 
+Encaminhar email para: robson.costa@gerencert.com.br
+
 ** Todos os candidatos seram responditos, então não se preocupe.
