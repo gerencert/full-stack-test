@@ -29,10 +29,10 @@ Desenvolva uma interface contendo um botão para cadastro de novo cliente, e uma
 O botão novo, deve direcionar o usuário para uma nova tela contendo um formulário com os seguintes campos:
 
 <table>
-  <tr>
+  <th>
     <td>Field</td>  
     <td>Type</td>  
-  </tr>
+  </th>
   <tr>
     <td>fullName</td>  
     <td>String</td>  
