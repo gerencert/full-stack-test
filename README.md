@@ -12,7 +12,7 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 - [x] Participação nos lucros e resultados
 
 # Proposta
-Desenvolver uma aplicação simples para controle de clientes.
+Desenvolver uma aplicação simples para controle de clientes seguindo os requisitos abaixo.
 
 ## Back-end
 Desenvolva uma API seguindo o padrão RESTFul contendo rotas para:
@@ -64,20 +64,17 @@ A tela deve possibilitar que o usuário altere alguma informação e salve.
 A tela também deve conter um botão para remover o cliente.
 
 # Requisitos
-
 * Angular 1.6
-* Node
-* HapiJS ou Koa2
+* Nodejs
+* Hapijs
 * Mongodb
 * Git
 
 # Diferenciais
-
 * Docker
 * Testes automatizados
 
 # Conclusão
-
 Encaminhe um email com o link de acesso ao projeto, lembre-se de subir em um repositório de código fonte publico, para que possamos ter acesso e avaliar seu teste.
 Também no email, conte um pouco sobre você e seus objetivos ;)
 
