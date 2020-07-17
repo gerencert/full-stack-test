@@ -12,7 +12,7 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 - [x] Participação nos lucros e resultados
 
 # Proposta
-Desenvolva uma aplicação simples para controle de cliente:
+Desenvolver uma aplicação simples para controle de clientes.
 
 ## Back-end
 Desenvolva uma API para controle de cliente, a API deve seguir o padrão RESTFul e conter rotas para:
