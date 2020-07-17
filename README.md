@@ -1,7 +1,7 @@
 # Teste Desenvolvedor Full Stack
 
-Esse é um teste para que possamos testar algumas de suas habilidades e conhecimentos.
-Não necessáriamente é preciso terminar a atividade por completo. Vamos avaliar a lógica, organização do projeto e qualidade de código.
+Esse é um teste para que possamos avaliar algumas de suas habilidades e conhecimentos.
+Não necessáriamente é preciso terminar a atividade por completo, caso não consiga terminar todo o teste, iremos levar em consideração o que foi feito. Vamos avaliar a lógica, organização do projeto e qualidade de código.
 
 # Sobre Nós
 Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de autoridade de registro gerenciam certificado digital.
