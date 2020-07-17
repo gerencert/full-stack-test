@@ -15,7 +15,7 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 Desenvolver uma aplicação simples para controle de clientes.
 
 ## Back-end
-Desenvolva uma API para controle de cliente, a API deve seguir o padrão RESTFul e conter rotas para:
+Desenvolva uma API seguindo o padrão RESTFul contendo rotas para:
 - Consultar clientes
 - Cadastrar novo cliente
 - Consultar cliente por ID
