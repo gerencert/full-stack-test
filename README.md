@@ -14,8 +14,9 @@ Somos uma startup que chegou para inovar! Mudamos a forma que as empresas de aut
 # Proposta
 
 Desenvolva uma aplicação simples para controle de cliente:
-A interface deve conter um botão para cadastrar novo cliente, e uma listagem dos clientes cadastrados.
-O botão novo, deve direcionar para uma nova tela contendo os seguintes campos:
+## Frond-end
+Desenvolva uma interface contendo um botão para cadastro de novo cliente, e uma listagem dos clientes cadastrados.
+O botão novo, deve direcionar o usuário para uma nova tela contendo um formulário com os seguintes campos:
 
 <table>
   <tr>
@@ -47,6 +48,10 @@ O botão novo, deve direcionar para uma nova tela contendo os seguintes campos:
     <td>boolean</td>  
   </tr>
 </table>
+
+Na tela de listagem de clientes, o usuário deve conseguir clicar em algum cliente da lista, para poder editar, a mesma ação deve direcionar o usuário para uma tela com o mesmo formulário de cadastro, porém com as informações já preenchidas.
+A tela deve possibilitar que o usuário altere alguma informação e salve.
+A tela também deve conter um botão para remover o cliente.
 
 # Requisitos
 
